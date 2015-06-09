@@ -1,0 +1,24 @@
+{
+  "name": "chartjs-scatter",
+  "version": "0.0.1",
+  "authors": [
+    "jeffreybiles & dima117"
+  ],
+  "description": "Adds a scatter plot to chartjs",
+  "main": "Chart.Scatter.min.js",
+  "keywords": [
+    "chartjs"
+  ],
+  "license": "MIT",
+  "homepage": "http://dima117.github.io/Chart.Scatter/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "chartjs": "^1.0.0"
+  }
+}
